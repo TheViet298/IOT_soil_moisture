@@ -1,3 +1,5 @@
+//BY: ME AND N5 PTIT
+
 #define BLYNK_TEMPLATE_ID "TMPL6MqMFPbAp"
 #define BLYNK_TEMPLATE_NAME "IOTN5 ESP32 DHT11 FAN"
 #define BLYNK_AUTH_TOKEN "npjZsmVBGbYBMZv14oLN1tcFthiGBG8c"
@@ -243,3 +245,4 @@ void loop() {
     connectMQTT();
   }
 }
+ 
